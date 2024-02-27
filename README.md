@@ -1,3 +1,4 @@
 # new-repo
 this is my 1st git repo
-authoe:shubhodeep
+<br>
+author:shubhodeep
